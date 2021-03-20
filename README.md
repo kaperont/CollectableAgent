@@ -11,16 +11,14 @@ Three Agents were trained across two Scenes. One scene was left flat and empty t
 
 ## Agents
 
-<br>
 <div>
     <div style="float: left">
-        <img src="./img/Agent.png" width="250" style="margin: 0 10px 0 0;">
+        <img src="./img/Agent.PNG" width="250" style="margin: 0 10px 0 0;">
     </div>
     <p>
     The following details describe the Agent <i>at time of training.</i> "Optimal State" is true when all collectables are collected. There are three trained brains, each belonging to the respectively named Agents (i.e. the <i>Collector_Agent</i> brain belongs to the Collector_Agent prefab; the <i>ImprovedAgent</i> brain belongs to the ImprovedAgent prefab; and the <i>ImprovedAgent2.0</i> brain belongs to the ImprovedAgent2.0 prefab).
     </p>
 </div>
-<br><br><br><br><br>
 
 ### **Collector_Agent**
 | Number of Agents | Script Used        | Reward Function                   | Behavior Parameters         |
@@ -86,7 +84,6 @@ The following graphs depict the average reward (y-axis) per episode (x-axis). Th
     <img src="./img/results/ImprovedAgent.svg" alt="ImprovedAgent" title="ImprovedAgent" width="250" style="margin:auto; float: left"/>
     <img src="./img/results/ImprovedAgent2.svg" alt="ImprovedAgent2.0" title="ImprovedAgent2.0" width="250" style="margin:auto; float: left"/>
 </p>
-<br><br><br><br><br><br><br><br>
 
 # Flat Scene Observations
 Each of the following scenes can be found and run from `Assets > Scenes > Flat Scenes`. More scenes comparing different agents against eachother on this map can be found in this directory as well. In the following sections, I have included my observations from watching the scene listed.
