@@ -12,7 +12,7 @@ Three Agents were trained across two Scenes. One scene was left flat and empty t
 ## Agents
 
 <div>
-    <img src="./img/Agent.PNG" width="250" style="margin: 0 10px 0 0; float: left;">
+    <img src="./img/Agent.PNG" width="250" align="left" style="margin: 0 10px 0 0;">
     <p>
     The following details describe the Agent <i>at time of training.</i> "Optimal State" is true when all collectables are collected. There are three trained brains, each belonging to the respectively named Agents (i.e. the <i>Collector_Agent</i> brain belongs to the Collector_Agent prefab; the <i>ImprovedAgent</i> brain belongs to the ImprovedAgent prefab; and the <i>ImprovedAgent2.0</i> brain belongs to the ImprovedAgent2.0 prefab).
     </p>
